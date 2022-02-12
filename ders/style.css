@@ -1,0 +1,137 @@
+.col-lg-9 a {
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 0 20px;
+}
+
+.adam {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  padding-bottom: 100px;
+}
+
+.man {
+  padding: 100px 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.left {
+  width: 40%;
+}
+
+.right {
+  width: 60%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.right .box {
+  width: 40%;
+}
+
+.men h1 {
+  font-family: serif;
+}
+
+.men {
+  text-align: center;
+  background-color: wheat;
+  padding-top: 110px;
+  padding-bottom: 100px;
+}
+
+.men .m {
+  margin-top: 40px;
+}
+
+.div {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 100px;
+}
+
+.div .box {
+  width: 25%;
+}
+
+.div .box img {
+  width: 100%;
+}
+
+.w {
+  margin-top: 100px;
+}
+
+.w h2, .w h4 {
+  text-align: center;
+}
+
+.w .div {
+  margin-top: 40px;
+}
+
+.w .div .bottom {
+  margin-top: 5px;
+  margin-left: 7px;
+}
+
+.e {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div .box {
+  -webkit-box-shadow: 10px 10px 10px  black;
+          box-shadow: 10px 10px 10px  black;
+}
+
+.farm {
+  padding: 0 130px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 100px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 50px 130px;
+  margin-top: 80pxpx;
+  margin-left: 130px;
+  margin-right: 130px;
+  background-color: dodgerblue;
+  margin-bottom: 80px;
+  border-radius: 8px;
+}
+
+.i {
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 130px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.i .r a {
+  color: wheat;
+}
+
+.i .l {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
